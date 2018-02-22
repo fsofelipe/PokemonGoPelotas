@@ -1,0 +1,116 @@
+Date,Team,Level,Age,Hour_Week,Hour_Weekend,Pokestops_Num,Gyms_Num,Pokestop_Neighbor,Gym_Neighbor,Raid_Num,Search_Pokemon,Badge_Gold,Badge_Silver,Badge_Bronze,Coins,Gen_1,Gen_2,Gen_3,Raid_Ex,Raid_Ex_Loc
+2018-01-15 22:07:19,Mystic,33,21,6,2,1,1,A;,A;,1,Não,4,6,15,21 a 30,Não,Não,Não,0,-
+2018-01-16 12:18:06,Intinct,30,19,20,6,21 ou mais,3,A; B; C; G;,A; B; C;,2,Não,0,4,15,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:18:14,Mystic,35,28,1,3,4,1,A; D; H;,A; B; C;,1,Sim,1,11,30,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:19:09,Valor,36,24,1,2,de 11 até 15,de 5 até 10,C; G;,A; C;,2,Sim,4,25,3,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:19:13,Valor,30,26,20,5,21 ou mais,de 5 até 10,A; B; C;,A; B; C;,1,Sim,1,12,12,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:20:12,Mystic,35,28,90,36,de 5 até 10,1,B;,A;,1,Sim,3,13,16,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:21:19,Mystic,34,26,15,8,de 11 até 15,1,A; B;,A; B;,1,Sim,2,9,24,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:21:34,Valor,22,22,14,6,de 11 até 15,2,H;,A; B; C; H;,2,Sim,0,0,0,11 a 20,Não,Não,Não,0,-
+2018-01-16 12:23:11,Mystic,34,40,14,4,de 5 até 10,1,A; B;,A; B;,1,Sim,4,6,20,31 a 40,Não,Não,Não,0,-
+2018-01-16 12:23:19,Mystic,31,25,4,1,de 5 até 10,1,A; B; D;,A; B;,1,Não,1,10,4,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:23:36,Valor,35,31,5,3,2,1,A; B;,A; B; C; D;,1,Sim,1,7,7,11 a 20,Não,Não,Não,0,-
+2018-01-16 12:23:51,Mystic,34,22,10,4,4,3,A; B; C;,A; B; C;,2,Sim,5,6,15,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:24:30,Intinct,27,17,3,2,3,1,C; E;,C; E;,1,Não,1,1,6,11 a 20,Não,Não,Não,0,-
+2018-01-16 12:24:42,Mystic,37,29,8,4,21 ou mais,1,B;,A; B; C;,1,Não,3,6,7,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:28:36,Mystic,24,28,4,4,de 5 até 10,2,B; C;,C;,1,Não,0,0,2,0 a 10,Não,Não,Não,0,-
+2018-01-16 12:29:42,Valor,23,17,12,6,3,1,D; H;,A; C; H;,1,Não,2,1,4,11 a 20,Não,Não,Não,0,-
+2018-01-16 12:32:14,Mystic,38,39,30,12,21 ou mais,de 5 até 10,A; B; D; H;,A; B; D; H;,1,Sim,31,4,0,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:36:43,Mystic,37,47,7,2,de 11 até 15,de 5 até 10,A; C;,A; C;,1,Sim,29,6,0,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:37:57,Mystic,37,26,3,4,de 5 até 10,4,B; E;,B;,1,Sim,5,8,10,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:38:26,Valor,32,33,20,7,de 11 até 15,3,A; G;,A; C; G;,1,Sim,2,5,5,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:39:02,Valor,33,26,20,5,21 ou mais,4,A; B; C;,A; B; C;,2,Sim,4,10,13,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:41:48,Mystic,33,18,3,2,de 5 até 10,1,A; E; F;,A;,1,Não,1,19,10,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:42:08,Valor,37,22,10,5,de 16 até 20,de 5 até 10,A; B; C; D; H;,A; B; C; D;,1,Sim,11,6,2,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:43:38,Mystic,28,21,10,5,2,1,A; H;,A;,1,Não,1,4,3,31 a 40,Não,Não,Não,0,-
+2018-01-16 12:44:42,Mystic,32,26,10,5,de 5 até 10,1,A; B; C;,A; B; C;,1,Sim,0,17,17,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:47:30,Mystic,36,26,20,4,de 16 até 20,4,E; F;,A; C; E; F;,1,Sim,5,16,26,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:47:49,Valor,34,30,7,1,de 5 até 10,1,C;,A; B; C; D;,1,Não,1,16,14,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:47:59,Mystic,26,20,5,2,de 5 até 10,3,A; B;,A; H;,1,Sim,8,16,39,21 a 30,Não,Não,Não,0,-
+2018-01-16 12:48:05,Mystic,33,40,6,2,de 5 até 10,2,E;,E;,1,Sim,3,8,17,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:48:16,Mystic,28,18,4,6,de 11 até 15,2,A; C;,A; C;,1,Sim,0,3,2,21 a 30,Não,Não,Não,0,-
+2018-01-16 12:53:36,Mystic,34,26,15,4,3,1,E;,A; B; C; E;,1,Sim,3,16,26,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:53:08,Mystic,31,17,40,10,4,1,C; E; F;,C; E; F;,1,Sim,1,11,7,21 a 30,Não,Não,Não,0,-
+2018-01-16 12:55:12,Mystic,30,25,20,6,de 5 até 10,2,B; G;,A; B; C;,1,Sim,3,5,8,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:58:27,Intinct,32,26,14,4,de 5 até 10,1,A; B; C; D;,A; B; C;,1,Sim,3,3,5,41 a 50,Não,Não,Não,0,-
+2018-01-16 12:58:43,Valor,24,25,2,1,1,1,A; C; D;,A;,1,Sim,1,1,2,0 a 10,Não,Não,Não,0,-
+2018-01-16 13:01:02,Mystic,26,15,12,8,4,1,A; E;,A; E;,1,Sim,1,0,15,0 a 10,Não,Não,Não,0,-
+2018-01-16 13:16:01,Mystic,34,35,16,2,21 ou mais,de 5 até 10,A; C;,A; B; C;,1,Sim,2,4,3,21 a 30,Não,Não,Não,1,Bibliotheca Publica Pelotense;
+2018-01-16 13:23:52,Intinct,36,28,10,8,21 ou mais,2,C; E;,A; B; C; E;,1,Não,4,7,8,41 a 50,Não,Não,Não,4,Dr Nunes Vieira; Caixa D'Agua da Praca; Monumento a Joao da Silva Silveira; Bibliotheca Publica Pelotense;
+2018-01-16 13:30:09,Mystic,39,29,10,6,21 ou mais,de 5 até 10,A; B; C; D; E;,A; B; C; D; E; F;,1,Sim,18,7,8,41 a 50,Sim,Não,Não,1,Monumento a Joao da Silva Silveira;
+2018-01-16 13:33:42,Valor,30,18,10,2,21 ou mais,2,B;,A; B; C;,1,Sim,4,4,2,41 a 50,Não,Não,Não,1,Catedral Sao Francisco de Paula;
+2018-01-16 13:37:13,Mystic,35,29,2,2,21 ou mais,1,B; C; E;,A; B; C;,1,Sim,0,15,32,11 a 20,Sim,Sim,Não,0,-
+2018-01-16 13:39:26,Mystic,33,17,5,6,de 11 até 15,2,A; B; C;,A; B; C;,2,Sim,3,7,8,41 a 50,Sim,Sim,Não,1,Caixa D'Agua da Praca;
+2018-01-16 13:44:32,Valor,35,31,22,1,de 16 até 20,de 5 até 10,A; C;,A; B; C;,1,Sim,8,7,12,41 a 50,Sim,Sim,Não,4,Dr Nunes Vieira; Caixa D'Agua da Praca; Catedral Sao Francisco de Paula; Bibliotheca Publica Pelotense;
+2018-01-16 13:44:50,Mystic,34,29,4,5,de 11 até 15,1,A; E; G;,A; B; C; D; E;,1,Sim,10,30,8,41 a 50,Não,Não,Não,1,Gruta da Baronesa;
+2018-01-16 13:59:28,Mystic,22,24,20,10,2,1,B;,B;,1,Sim,0,2,4,0 a 10,Não,Não,Não,0,-
+2018-01-16 13:59:52,Mystic,29,23,2,3,de 11 até 15,3,A; B; D; H;,A; B; C; D; H;,1,Sim,0,10,31,11 a 20,Não,Não,Não,2,Catedral Sao Francisco de Paula; Gruta da Baronesa;
+2018-01-16 14:00:47,Valor,22,24,3,6,1,1,B;,B;,1,Sim,0,0,4,0 a 10,Não,Não,Não,0,-
+2018-01-16 14:01:03,Mystic,33,41,3,3,de 11 até 15,3,A; B; C; D; H;,A; B; C; D;,1,Sim,1,14,34,0 a 10,Não,Não,Não,1,Catedral Sao Francisco de Paula;
+2018-01-16 14:28:02,Mystic,26,19,3,5,3,2,H;,A; B; C; H;,1,Sim,0,2,2,21 a 30,Não,Não,Não,0,-
+2018-01-16 14:44:43,Valor,21,18,0,0,0,0,A;,A;,0,Sim,0,0,0,0 a 10,Não,Não,Não,0,-
+2018-01-16 14:53:13,Valor,29,24,10,3,4,4,B;,B;,1,Sim,13,14,6,41 a 50,Sim,Não,Não,0,-
+2018-01-16 14:57:37,Mystic,32,27,20,10,de 11 até 15,2,A; C; D; E;,D;,1,Sim,2,3,5,41 a 50,Sim,Sim,Não,1,Caixa D'Agua da Praca;
+2018-01-16 15:07:54,Mystic,34,26,20,2,de 11 até 15,1,A; E;,A;,1,Sim,3,6,10,21 a 30,Sim,Sim,Não,0,-
+2018-01-16 15:12:50,Valor,35,27,8,1,21 ou mais,2,B; C; D;,B; C;,1,Sim,6,10,10,41 a 50,Sim,Não,Não,3,Monumento a Joao da Silva Silveira; Dr Nunes Vieira; Catedral Sao Francisco de Paula;
+2018-01-16 16:09:48,Mystic,30,17,6,9,21 ou mais,4,A;,A;,4 ou mais,Sim,6,10,13,41 a 50,Sim,Não,Não,1,Nao Informado;
+2018-01-16 16:34:10,Mystic,32,21,3,0,1,0,D;,A; D;,0,Não,0,2,10,0 a 10,Não,Não,Não,0,-
+2018-01-16 17:16:55,Mystic,31,21,30,4,de 11 até 15,2,A; G;,A; B; C;,2,Sim,0,13,19,41 a 50,Não,Não,Não,0,-
+2018-01-16 18:01:42,Mystic,38,28,15,4,21 ou mais,de 5 até 10,A; B;,A; C; D; E; G;,3,Não,16,16,3,41 a 50,Sim,Sim,Não,1,Monumento a Joao da Silva Silveira;
+2018-01-16 18:40:25,Mystic,35,22,20,16,de 5 até 10,4,A;,A;,2,Sim,3,8,7,41 a 50,Sim,Não,Não,1,Bibliotheca Publica Pelotense;
+2018-01-16 19:39:58,Mystic,19,17,3,7,3,3,B;,B;,1,Não,1,2,3,0 a 10,Não,Não,Não,0,-
+2018-01-16 19:49:39,Mystic,26,24,10,2,21 ou mais,3,B;,B;,1,Não,0,3,9,31 a 40,Não,Não,Não,0,-
+2018-01-16 21:11:35,Mystic,32,19,20,12,de 16 até 20,4,A; C; E;,A; B; C;,1,Sim,1,10,6,41 a 50,Não,Não,Não,3,Monumento a Joao da Silva Silveira; Dr Nunes Vieira; Caixa D'Agua da Praca;
+2018-01-16 22:31:39,Valor,24,25,5,2,1,1,D; G;,D; G;,1,Não,0,4,6,31 a 40,Não,Não,Não,0,-
+2018-01-16 22:39:04,Valor,38,27,40,6,de 16 até 20,de 5 até 10,A; B; C;,A; C;,1,Sim,9,6,10,41 a 50,Sim,Sim,Não,1,Bibliotheca Publica Pelotense;
+2018-01-16 22:39:22,Valor,33,30,5,2,de 11 até 15,2,A; C; D; G; H;,A; D; G; H;,1,Sim,3,10,10,41 a 50,Não,Não,Não,1,Gruta da Baronesa;
+2018-01-16 22:50:07,Intinct,35,21,8,3,21 ou mais,2,C;,C;,1,Sim,5,6,8,41 a 50,Não,Não,Não,1,Monumento a Joao da Silva Silveira;
+2018-01-16 23:06:44,Valor,28,22,15,7,de 16 até 20,3,A; C; E; H;,A; C; E; H;,1,Sim,1,6,16,41 a 50,Não,Não,Não,0,-
+2018-01-16 23:12:56,Intinct,33,28,2,1,21 ou mais,de 5 até 10,A; B; C; H;,A; B; C; H;,1,Sim,0,15,10,41 a 50,Não,Não,Não,1,Monumento a Joao da Silva Silveira;
+2018-01-16 23:25:53,Intinct,35,27,5,8,de 5 até 10,4,A; G;,A; B;,1,Sim,3,5,10,41 a 50,Sim,Não,Não,0,-
+2018-01-16 23:38:41,Valor,25,26,15,3,de 11 até 15,de 5 até 10,A; B; C;,A; B; C;,1,Sim,0,12,12,41 a 50,Não,Não,Não,1,Catedral Sao Francisco de Paula;
+2018-01-17 00:25:51,Intinct,31,26,5,4,3,0,A; B; C;,A; B; C;,1,Sim,4,2,6,0 a 10,Não,Não,Não,0,-
+2018-01-17 11:04:12,Intinct,24,21,7,5,de 16 até 20,3,A; C;,A; C;,1,Sim,0,3,14,41 a 50,Não,Não,Não,0,-
+2018-01-17 21:26:05,Mystic,21,14,2,2,3,de 5 até 10,A; F;,E; F;,0,Não,0,0,0,0 a 10,Não,Não,Não,0,-
+2018-01-25 10:01:03,Valor,34,26,15,18,21 ou mais,de 11 até 15,A; B; C; E; H;,A; B; E; H;,2,Sim,6,12,16,41 a 50,Não,Não,Não,1,Bibliotheca Publica Pelotense;
+2018-01-25 10:08:25,Intinct,30,29,3,1,2,0,C; H;,C; H;,0,Não,1,3,8,0 a 10,Não,Não,Não,1,Caixa D'Agua da Praca;
+2018-01-25 10:09:29,Mystic,33,21,10,2,1,1,A;,A;,1,Não,4,7,15,41 a 50,Não,Não,Não,0,-
+2018-01-25 10:19:39,Intinct,24,17,5,3,3,2,B; H;,B;,1,Sim,2,5,2,41 a 50,Não,Não,Não,0,-
+2018-01-25 10:20:21,Mystic,39,20,30,2,21 ou mais,2,A; B; C;,A; B; C;,2,Sim,10,2,5,41 a 50,Sim,Não,Sim,3,Catedral Sao Francisco de Paula; Gruta da Baronesa; Monumento a Joao da Silva Silveira;
+2018-01-25 10:25:36,Mystic,37,25,7,5,de 16 até 20,1,A;,A; C;,1,Sim,3,17,30,41 a 50,Sim,Não,Não,0,-
+2018-01-25 10:46:11,Mystic,27,21,10,4,de 5 até 10,2,A;,A;,1,Sim,0,3,18,31 a 40,Não,Não,Não,0,-
+2018-01-25 11:01:39,Valor,33,36,5,14,de 11 até 15,3,A; B; C; D; H;,A; B; C; D; H;,1,Sim,0,0,0,41 a 50,Sim,Não,Não,0,-
+2018-01-25 11:08:46,Valor,32,20,7,4,de 5 até 10,3,A; B; H;,A; B; C;,2,Sim,1,6,14,41 a 50,Não,Não,Não,0,-
+2018-01-25 11:25:16,Mystic,28,51,6,3,de 5 até 10,1,A; B; C; E;,A; B; C; E;,1,Sim,3,4,8,41 a 50,Não,Não,Não,0,-
+2018-01-25 11:29:06,Mystic,35,19,7,3,de 11 até 15,2,A; B; C;,A; B; C; D;,2,Sim,3,21,5,41 a 50,Sim,Sim,Não,1,Gruta da Baronesa;
+2018-01-25 11:29:23,Mystic,33,23,10,4,de 5 até 10,1,A; E; G;,A; E;,1,Sim,0,10,20,41 a 50,Sim,Sim,Não,0,-
+2018-01-25 11:33:49,Valor,30,30,8,8,21 ou mais,4,B;,B;,2,Sim,1,8,5,41 a 50,Sim,Não,Não,0,-
+2018-01-25 11:34:09,Mystic,36,25,4,2,3,1,A; B; H;,A; B;,1,Sim,3,4,3,41 a 50,Sim,Sim,Não,0,-
+2018-01-25 11:40:22,Mystic,38,28,15,4,de 16 até 20,4,A; B; C;,A; C; D; G; H;,3,Não,20,14,2,41 a 50,Sim,Sim,Não,1,Monumento a Joao da Silva Silveira;
+2018-01-25 11:48:12,Mystic,35,28,90,36,de 5 até 10,1,B;,A;,1,Sim,5,11,16,41 a 50,Sim,Não,Não,2,Monumento a Joao da Silva Silveira; Catedral Sao Francisco de Paula;
+2018-01-25 11:50:02,Mystic,38,39,30,15,21 ou mais,de 5 até 10,A; B; D; H;,A; B; C; D; H;,0,Sim,33,2,1,41 a 50,Sim,Não,Não,1,Bibliotheca Publica Pelotense;
+2018-01-25 11:51:16,Mystic,35,19,8,2,de 16 até 20,3,A; B; C; H;,A; B; C; D; H;,2,Sim,3,22,5,41 a 50,Sim,Sim,Sim,1,Gruta da Baronesa;
+2018-01-25 12:08:03,Mystic,30,20,8,6,de 5 até 10,2,A; F;,A;,1,Sim,5,10,25,31 a 40,Sim,Não,Não,1,Nao Informado;
+2018-01-25 12:37:38,Mystic,34,27,40,10,de 5 até 10,2,A; E;,A; E;,1,Sim,3,9,17,41 a 50,Sim,Sim,Não,0,-
+2018-01-25 13:01:29,Mystic,35,19,8,2,de 16 até 20,3,A; B; C; H;,A; B; C; D; H;,2,Sim,3,22,5,41 a 50,Sim,Sim,Sim,1,Gruta da Baronesa;
+2018-01-25 13:17:57,Valor,29,21,8,10,4,0,A; B; C; E;,A; B; C; E; F;,1,Não,1,7,18,11 a 20,Não,Não,Não,0,-
+2018-01-25 17:25:22,Valor,22,4,5,0,de 5 até 10,0,C; E;,C;,0,Não,2,1,1,0 a 10,Sim,Não,Não,0,-
+2018-01-25 23:13:12,Valor,27,13,10,2,21 ou mais,3,A;,A;,2,Sim,0,6,10,41 a 50,Não,Não,Não,1,Nao Informado;
+2018-01-26 00:53:18,Mystic,33,40,6,3,de 5 até 10,1,E;,E;,1,Sim,5,6,17,41 a 50,Não,Não,Não,1,Gruta da Baronesa;
+2018-02-14 15:49:03,Intinct,24,23,1,2,de 5 até 10,0,A;,A;,0,Não,1,1,0,0 a 10,Não,Não,Não,0,-
+2018-02-14 15:55:17,Valor,34,28,5,2,4,1,B; C;,B; C;,1,Sim,7,8,9,41 a 50,Não,Não,Não,1,Monumento a Joao da Silva Silveira;
+2018-02-14 16:00:45,Mystic,29,19,3,5,2,0,H;,A; B;,1,Sim,1,4,9,41 a 50,Não,Não,Não,1,Catedral Sao Francisco de Paula;
+2018-02-14 16:01:29,Valor,23,17,5,5,de 5 até 10,1,A;,A; C;,1,Não,0,0,0,41 a 50,Não,Não,Não,0,-
+2018-02-14 16:05:26,Valor,27,26,6,2,2,2,D;,D;,1,Não,0,6,4,41 a 50,Não,Não,Não,0,-
+2018-02-14 16:17:31,Valor,29,28,2,3,de 5 até 10,3,A;,A;,1,Sim,0,5,3,41 a 50,Não,Não,Não,1,Catedral Sao Francisco de Paula;
+2018-02-14 16:24:51,Valor,29,32,5,5,de 5 até 10,2,B;,A; B;,1,Sim,2,3,6,41 a 50,Sim,Não,Não,0,-
+2018-02-14 16:44:33,Intinct,27,21,10,5,de 11 até 15,1,A; E; F; H;,F;,1,Sim,0,3,2,11 a 20,Não,Não,Não,0,-
+2018-02-14 16:45:23,Mystic,27,21,2,2,de 5 até 10,0,A;,A;,1,Sim,2,7,16,31 a 40,Não,Não,Não,1,Catedral Sao Francisco de Paula;
+2018-02-14 16:48:06,Mystic,35,26,20,4,de 5 até 10,2,A; B;,A; C; E;,1,Sim,2,17,9,41 a 50,Sim,Sim,Não,2,Catedral Sao Francisco de Paula; Catedral Sao Francisco de Paula;
+2018-02-14 16:52:44,Intinct,31,28,2,1,2,1,A;,A;,1,Não,0,5,7,11 a 20,Não,Não,Não,0,-
+2018-02-14 17:17:43,Intinct,32,27,20,8,de 5 até 10,1,A; B;,A; B; C; D;,0,Sim,2,4,8,41 a 50,Sim,Não,Não,2,Catedral Sao Francisco de Paula; Dr Nunes Vieira;
+2018-02-14 17:35:21,Mystic,38,25,10,6,21 ou mais,de 5 até 10,A; B; C; D; E; F; G; H;,A; B; C; D;,2,Sim,35,4,0,41 a 50,Sim,Não,Não,2,Bibliotheca Publica Pelotense; Praca Stonehenge I;
+2018-02-14 17:36:16,Mystic,30,29,30,5,de 5 até 10,1,B; H;,A; B; C;,1,Não,1,15,5,21 a 30,Não,Não,Não,1,Catedral Sao Francisco de Paula;
+2018-02-15 00:35:07,Valor,38,31,20,10,21 ou mais,de 5 até 10,A; B; C;,A; B; C;,2,Sim,10,43,107,41 a 50,Sim,Sim,Não,1,Nao Informado;
+2018-02-15 11:19:02,Intinct,25,21,1,0,2,0,A;,A;,0,Não,0,1,3,0 a 10,Não,Não,Não,0,-
+2018-02-16 11:13:41,Mystic,28,25,20,3,de 11 até 15,1,A; C;,A; B; C;,1,Não,0,3,4,41 a 50,Não,Não,Não,1,Monumento a Joao da Silva Silveira;
